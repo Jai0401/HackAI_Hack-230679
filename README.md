@@ -51,5 +51,3 @@ The agent will start fetching the current temperature for the specified location
 
 Feel free to reach out for any questions or assistance with running the Temperature Alert Agent.
 ```
-
-You can copy and paste this code into a `README.md` file in your project repository, and replace `"Your_OpenWeatherMap_API_Key"` and `"Your_Location"` with your actual API key and location.
