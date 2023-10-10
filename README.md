@@ -1,4 +1,4 @@
-```markdown
+
 # Temperature Alert Agent
 
 ## Description
@@ -11,7 +11,7 @@ To run the Temperature Alert Agent, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/temperature-alert-agent.git
-   ```
+
 
 2. Navigate to the project directory:
 
