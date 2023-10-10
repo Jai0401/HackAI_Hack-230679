@@ -16,7 +16,9 @@ To run the Temperature Alert Agent, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd temperature-alert-agent
+   cd HackAI_Hack-23067
+   cd src
+   cd uagents
    ```
 
 3. Install the required dependencies using Poetry:
