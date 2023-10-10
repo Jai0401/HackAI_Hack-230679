@@ -1,0 +1,14 @@
+{
+    "TemperatureAlertAgent": {
+        "identity_key": "ec3ddd42ba23f8c55f7e60ff8558cb66967f90eb0e663fc614fad6abba1c103e",
+        "wallet_key": "eE9vU7rMR2I3CxQGL7BR4YS52iV16eWv7qVlLQ9BM4Q="
+    },
+    "TemperatureUpdateAgent": {
+        "identity_key": "3053d219d436d48fcd95e72d4ecbe93bf05dc27e3820d778ea889b43499e386f",
+        "wallet_key": "n2fVFqWnsjDZbx1/Si9gLr1q/9LD72oxhU7k+bQOMHw="
+    },
+    "alice": {
+        "identity_key": "62833eaf5509005c15671095b2967838c8bb837967e0cacd491bc3222973e4a9",
+        "wallet_key": "yMz1m/Pmrmf1qjY8h6Kiz/ON4EqvDqTpI+DumHgg+uU="
+    }
+}
