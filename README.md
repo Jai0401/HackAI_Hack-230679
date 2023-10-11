@@ -50,4 +50,3 @@ The agent will start fetching the current temperature for the specified location
 - Ensure that your environment allows outbound internet connections for API requests.
 
 Feel free to reach out for any questions or assistance with running the Temperature Alert Agent.
-```
